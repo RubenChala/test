@@ -6,12 +6,12 @@ body{
     min-height: 100vh;
 }
 .foto{
-    background: url(./imagen3.jpeg);
+    background: url(./image4.jpeg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position:center;
     background-size: cover;  
-    width:250px;
-    height:250px;
+    width:200px;
+    height:200px;
     display:block;
     margin:auto;
     border-radius:50%;
