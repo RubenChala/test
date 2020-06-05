@@ -1,0 +1,42 @@
+body{
+    background: url(./imagen1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+.foto{
+    background: url(./imagen3.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+    width:250px;
+    height:250px;
+    display:block;
+    margin:auto;
+    border-radius:50%;
+    border:5px solid #fff;
+}
+
+h1{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+}
+.contenedor{
+    position: absolute;
+    top:0;
+    right:0;
+    left:0;
+    bottom: 0;
+    margin: auto;
+    height: 400px;
+}
