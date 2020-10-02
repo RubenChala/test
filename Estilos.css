@@ -1,15 +1,16 @@
 body{
-    background: url(./imagen1.jpg);
+    background-color: black;
+    background-image: url(./foto3.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 1100px;
     min-height: 100vh;
 }
 .foto{
     background: url(./image4.jpeg);
     background-repeat: no-repeat;
     background-position:center;
-    background-size: cover;  
+    background-size: cover;   
     width:200px;
     height:200px;
     display:block;
@@ -19,7 +20,7 @@ body{
 }
 
 h1{
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Josefin Sans', sans-serif;
     font-weight: 600;
     color: #fff;
     text-align: center;
